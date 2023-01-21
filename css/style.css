@@ -1,0 +1,69 @@
+.container {
+    display: flex;
+    justify-content: space-between;
+}
+.border {
+    border-right: 1px solid blue;
+}
+.im {
+    display: flex;
+    float: left;
+    margin: 10px;
+}
+.im1 {
+    display: flex;
+    float: left;
+    margin: 10px;
+}
+.img {
+    width: 100px;
+}
+.im2 {
+    display: flex;
+    float: right;
+    gap: 10px;
+}
+
+.nav {
+    width: 200px;
+    color: rgb(0, 94, 255);
+}
+a {
+    text-decoration: none;
+}
+/* .nav div{
+ 
+    
+} */
+.container1 {
+    width: 800px;
+}
+.container1 p {
+    background-color: white;
+}
+.container2 {
+    border: 2px solid;
+    width: 300px;
+}
+
+.wiki {
+    text-align: center;
+}
+.img3 {
+    width: 100px;
+    float: right;
+}
+.clr {
+    color: rgb(0, 94, 255);
+}
+.head1 {
+    border: 2px solid;
+    background-color: rgb(245, 245, 103);
+}
+.head1 {
+    border: 2px solid;
+}
+.head2 {
+    border: 2px solid;
+    background-color: rgb(245, 245, 103);
+}
